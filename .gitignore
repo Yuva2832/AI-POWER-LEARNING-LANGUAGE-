@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 __pycache__/
 *.py[cod]
 *.so
@@ -29,3 +29,46 @@ Thumbs.db
 
 # Misc
 *.log
+
+# Visual Studio / .NET (merged from remote template)
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# .env is already ignored above
+
+# Build and intermediate directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Output folders
+**/[Bb]in/*
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# Common tooling
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+.history/
+
+# Misc Windows
+Thumbs.db
+
+# Additional tool artifacts
+*.vsix
+
+# Ignore other common temporary files
+*~
+~$*
+
+# Keep this file minimal; extend as needed.
