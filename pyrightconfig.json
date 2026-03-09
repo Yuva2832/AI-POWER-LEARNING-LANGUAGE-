@@ -1,0 +1,19 @@
+{
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.13",
+  "extraPaths": [
+    "C:\\Users\\yuva2\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages"
+  ],
+  "include": [
+    "Language_Learning_Game/backend",
+    "team-project/backend"
+  ],
+  "exclude": [
+    "**/.*",
+    "**/node_modules",
+    "**/__pycache__",
+    "venv"
+  ]
+}
+ 

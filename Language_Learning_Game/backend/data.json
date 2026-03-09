@@ -1,0 +1,66 @@
+{
+  "spanish": {
+    "name": "Spanish",
+    "native_name": "Español",
+    "words": [
+      {"id": 1, "word": "Hola", "translation": "Hello", "phonetic": "OH-lah"},
+      {"id": 2, "word": "Adiós", "translation": "Goodbye", "phonetic": "ah-DYOHS"},
+      {"id": 3, "word": "Gracias", "translation": "Thank you", "phonetic": "GRAH-syahs"},
+      {"id": 4, "word": "Por favor", "translation": "Please", "phonetic": "por fah-VOR"},
+      {"id": 5, "word": "Sí", "translation": "Yes", "phonetic": "see"},
+      {"id": 6, "word": "No", "translation": "No", "phonetic": "noh"},
+      {"id": 7, "word": "Buenos días", "translation": "Good morning", "phonetic": "BWEH-nohs DEE-ahs"},
+      {"id": 8, "word": "Buenas noches", "translation": "Good night", "phonetic": "BWEH-nahs NOH-chehs"},
+      {"id": 9, "word": "Agua", "translation": "Water", "phonetic": "AH-gwah"},
+      {"id": 10, "word": "Comida", "translation": "Food", "phonetic": "koh-MEE-dah"}
+    ]
+  },
+  "french": {
+    "name": "French",
+    "native_name": "Français",
+    "words": [
+      {"id": 1, "word": "Bonjour", "translation": "Hello", "phonetic": "bon-ZHOOR"},
+      {"id": 2, "word": "Au revoir", "translation": "Goodbye", "phonetic": "oh ruh-VWAHR"},
+      {"id": 3, "word": "Merci", "translation": "Thank you", "phonetic": "mehr-SEE"},
+      {"id": 4, "word": "S'il vous plaît", "translation": "Please", "phonetic": "seel voo PLEH"},
+      {"id": 5, "word": "Oui", "translation": "Yes", "phonetic": "wee"},
+      {"id": 6, "word": "Non", "translation": "No", "phonetic": "nohn"},
+      {"id": 7, "word": "Bonsoir", "translation": "Good evening", "phonetic": "bon-SWAHR"},
+      {"id": 8, "word": "Bonne nuit", "translation": "Good night", "phonetic": "bun NWEE"},
+      {"id": 9, "word": "Eau", "translation": "Water", "phonetic": "oh"},
+      {"id": 10, "word": "Pain", "translation": "Bread", "phonetic": "pan"}
+    ]
+  },
+  "german": {
+    "name": "German",
+    "native_name": "Deutsch",
+    "words": [
+      {"id": 1, "word": "Hallo", "translation": "Hello", "phonetic": "HAH-loh"},
+      {"id": 2, "word": "Auf Wiedersehen", "translation": "Goodbye", "phonetic": "owf VEE-der-zay-en"},
+      {"id": 3, "word": "Danke", "translation": "Thank you", "phonetic": "DAHN-kuh"},
+      {"id": 4, "word": "Bitte", "translation": "Please", "phonetic": "BIT-tuh"},
+      {"id": 5, "word": "Ja", "translation": "Yes", "phonetic": "yah"},
+      {"id": 6, "word": "Nein", "translation": "No", "phonetic": "nine"},
+      {"id": 7, "word": "Guten Morgen", "translation": "Good morning", "phonetic": "GOO-ten MOR-gen"},
+      {"id": 8, "word": "Gute Nacht", "translation": "Good night", "phonetic": "GOO-tuh nakht"},
+      {"id": 9, "word": "Wasser", "translation": "Water", "phonetic": "VAH-ser"},
+      {"id": 10, "word": "Brot", "translation": "Bread", "phonetic": "broht"}
+    ]
+  },
+  "japanese": {
+    "name": "Japanese",
+    "native_name": "日本語",
+    "words": [
+      {"id": 1, "word": "こんにちは", "translation": "Hello", "phonetic": "kon-ni-chi-wa"},
+      {"id": 2, "word": "さようなら", "translation": "Goodbye", "phonetic": "sa-yo-na-ra"},
+      {"id": 3, "word": "ありがとう", "translation": "Thank you", "phonetic": "a-ri-ga-to"},
+      {"id": 4, "word": "お願いします", "translation": "Please", "phonetic": "o-ne-gai shi-mas"},
+      {"id": 5, "word": "はい", "translation": "Yes", "phonetic": "hai"},
+      {"id": 6, "word": "いいえ", "translation": "No", "phonetic": "i-i-e"},
+      {"id": 7, "word": "おはよう", "translation": "Good morning", "phonetic": "o-ha-yo"},
+      {"id": 8, "word": "おやすみ", "translation": "Good night", "phonetic": "o-ya-su-mi"},
+      {"id": 9, "word": "水", "translation": "Water", "phonetic": "mi-zu"},
+      {"id": 10, "word": "パン", "translation": "Bread", "phonetic": "pan"}
+    ]
+  }
+}
